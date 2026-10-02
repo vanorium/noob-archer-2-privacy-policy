@@ -1,7 +1,9 @@
 # noob-archer-2-privacy-policy
 
 Privacy Policy
+
 Last Updated: June 24, 2026
+
 This Privacy Policy describes how Vanorium ("we", "us", or "our") collects, uses, and processes information about users ("you", "your") playing the game Noob Archer 2 (the "Game").
 We respect your privacy and are committed to protecting your data. By using the Game, you agree to the collection and use of information in accordance with this policy.
 1. Information We Collect
